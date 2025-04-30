@@ -71,7 +71,7 @@ int main() {
     printf ("População: %d \n", populacao1);
     printf ("Área: %.2f km²\n", area1);
     printf ("Pib: %.2f bilhões de reais\n", pib1);
-    printf ("Número de Pontos Turisticos: %d \n", pontoturistico1);
+    printf ("Número de Pontos Turísticos: %d \n", pontoturistico1);
 
     //Exibir as informações da carta 2
     printf ("\nCarta %d\n", numero2);
@@ -81,7 +81,7 @@ int main() {
     printf ("População: %d \n", populacao2);
     printf ("Área: %.2f km²\n", area2);
     printf ("Pib: %.2f bilhões de reais\n", pib2);
-    printf ("Número de Pontos Turisticos: %d \n", pontoturistico2);
+    printf ("Número de Pontos Turísticos: %d \n", pontoturistico2);
 
 
 
