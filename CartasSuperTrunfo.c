@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//Teste ELIEZER ELIEL ZIMMERMANN
+//Teste ELIEZER 
 
 int main() {
 
